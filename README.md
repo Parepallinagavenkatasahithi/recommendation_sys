@@ -32,8 +32,10 @@ This project includes a small hardcoded dataset with:
 'UserID': [1, 1, 1, 2, 2, 2, 3, 3, 3],
 'Product': ['Product A', 'Product B', ..., 'Product E'],
 'Rating': [4, 5, ..., 2]
+
 --------------------------------------------------------------------------------------------------
-**▶️ How to Run**
+
+## ▶️ How to Run
 1. Clone the repository
 git clone https://github.com/your-username/product-recommendation-system.git
 2. Install dependencies

@@ -33,7 +33,7 @@ This project includes a small hardcoded dataset with:
 'Product': ['Product A', 'Product B', ..., 'Product E'],
 'Rating': [4, 5, ..., 2]
 --------------------------------------------------------------------------------------------------
-▶️ How to Run
+**▶️ How to Run**
 1. Clone the repository
 git clone https://github.com/your-username/product-recommendation-system.git
 2. Install dependencies
@@ -42,19 +42,19 @@ pip install pandas scikit-learn
 python recommendation_sys.py
 Then enter a User ID like 1, 2, or 3 when prompted.
 --------------------------------------------------------------------------------------------------
-🧠 How It Works
+**🧠 How It Works**
 ->Creates a user-product rating matrix
 ->Calculates similarity between users using cosine similarity
 ->Predicts weighted ratings for unrated products
 ->Recommends the top N highest predicted ratings
 --------------------------------------------------------------------------------------------------
-📁 File Structure
+**📁 File Structure**
 product-recommendation-system/
 ├── recommendation_sys.py   # Main Python script
 └── README.md               # Project documentation
 ----------------------------------------------------------------------------------------------------
-👩‍💻 Author
+**👩‍💻 Author**
 Crafted with curiosity 🚀 by Sahithi — turning ideas into code, one project at a time.
 -----------------------------------------------------------------------------------------------------
-📄 License
+**📄 License**
 This project is open-source and available under the MIT License.

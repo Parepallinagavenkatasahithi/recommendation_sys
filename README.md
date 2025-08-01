@@ -34,7 +34,7 @@ This project includes a small hardcoded dataset with:
 
 --------------------------------------------------------------------------------------------------
 
-**## how to run**
+**▶️ How to Run**
 1. Clone the repository
 git clone https://github.com/your-username/product-recommendation-system.git
 2. Install dependencies
